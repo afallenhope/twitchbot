@@ -1,0 +1,17 @@
+  [
+    {
+    "name": "!git",
+    "response": "https://gitlab.com/afallenhope",
+    "parameters": []
+    },
+  {
+    "name": "!social",
+    "response": "Instagram: https://instagram.com/afallenhope",
+    "parameters": []
+  },
+  {
+    "name": "!project",
+    "response": "Currently, I'm learning Golang. My first project is an IRC bot that connects to twitch",
+    "parameters": ["", "add", "del"]
+  }
+  ]
