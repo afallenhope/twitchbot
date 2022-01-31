@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"io"
 	"strings"
-	"twitchbot/commands"
-	"twitchbot/parser"
-	"twitchbot/store"
-	"twitchbot/tui"
+	"gitlab.com/afallenhope/twitchbot/commands"
+	"gitlab.com/afallenhope/twitchbot/parser"
+	"gitlab.com/afallenhope/twitchbot/store"
+	"gitlab.com/afallenhope/twitchbot/tui"
 )
 
 func formatMessage(message parser.PrivMessage) string {

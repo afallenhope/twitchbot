@@ -4,11 +4,11 @@ import (
 	"github.com/joho/godotenv"
 	"log"
 	"os"
-	"twitchbot/irc"
-	"twitchbot/messages"
-	"twitchbot/parser"
-	"twitchbot/router"
-	"twitchbot/tui"
+	"gitlab.com/afallenhope/twitchbot/irc"
+	"gitlab.com/afallenhope/twitchbot/messages"
+	"gitlab.com/afallenhope/twitchbot/parser"
+	"gitlab.com/afallenhope/twitchbot/router"
+	"gitlab.com/afallenhope/twitchbot/tui"
 )
 
 func init() {

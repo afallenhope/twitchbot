@@ -1,4 +1,4 @@
-module twitchbot
+module gitlab.com/afallenhope/twitchbot
 
 go 1.17
 

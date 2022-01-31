@@ -7,8 +7,8 @@ import (
 	"io"
 	"log"
 	"os"
-	"twitchbot/irc"
-	"twitchbot/parser"
+	"gitlab.com/afallenhope/twitchbot/irc"
+	"gitlab.com/afallenhope/twitchbot/parser"
 )
 
 var CHANNEL string
